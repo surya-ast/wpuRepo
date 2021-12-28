@@ -4,3 +4,4 @@ Resolusi
 3. Diskusi
 4. Cari Mentor
 5. Kolaborasi
+6. tambah branch
